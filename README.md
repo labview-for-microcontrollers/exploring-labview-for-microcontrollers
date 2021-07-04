@@ -4,7 +4,7 @@ This is a project for exploring and prototyping possibilities for for open sourc
 
 There have been a variety of projects and related work done on this effort by different people over the years. Here we will start by taking inventory on the work done by others, discuss possibilities, experiment with ideas, develop prototypes, and a share a roadmap toward making this a real capability for LabVIEW developers!
 
-### Various Projects and Products
+### Various Related Projects and Products of Interest
 
 *   [NI LabVIEW C Generator](https://www.ni.com/en-us/support/downloads/software-products/download.labview-c-generator-module.html#322515) - an add-on for LabVIEW from NI that helps you create C code from LabVIEW VIs for specific targets.
 *   [NI VireoSDK](https://github.com/ni/VireoSDK) - a compact runtime written in C++ for a subset of LabVIEW, which is maintained by NI.  It runs VI Assembly (VIA) which are an output of LabVIEW (NXG) Web UI Builder. It can be compiled to various environments including Windows, Mac, Linux, JavaScript, and others.
