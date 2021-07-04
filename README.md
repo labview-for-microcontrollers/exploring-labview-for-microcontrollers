@@ -4,6 +4,10 @@ This is a project for exploring and prototyping possibilities for for open sourc
 
 There have been a variety of projects and related work done on this effort by different people over the years. Here we will start by taking inventory on the work done by others, discuss possibilities, experiment with ideas, develop prototypes, and a share a roadmap toward making this a real capability for LabVIEW developers!
 
+### Current Exploration
+
+*   Compiling Vireo to a Microcontroller Target - We're exploring what it would take to get NI's VireoSDK to compile to a microprocessor target.  Vireo can run VI Assembly (VIA) files, which are an output of LabVIEW's Web UI Builder (and LabVIEW NXG). Since Viero is written in C++ this could be a viable option with the right technical expertise.
+
 ### How to Help
 
 *   [Join the Discussion](https://github.com/labview-for-microcontrollers/exploring-labview-for-microcontrollers/discussions) - You can post questions and ideas in our [discussion forum](https://github.com/labview-for-microcontrollers/exploring-labview-for-microcontrollers/discussions) here on the github project.
