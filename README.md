@@ -4,6 +4,11 @@ This is a project for exploring and prototyping possibilities for for open sourc
 
 There have been a variety of projects and related work done on this effort by different people over the years. Here we will start by taking inventory on the work done by others, discuss possibilities, experiment with ideas, develop prototypes, and a share a roadmap toward making this a real capability for LabVIEW developers!
 
+### How to Help
+
+*   [Join the Discussion](https://github.com/labview-for-microcontrollers/exploring-labview-for-microcontrollers/discussions) - You can post questions and ideas in our [discussion forum](https://github.com/labview-for-microcontrollers/exploring-labview-for-microcontrollers/discussions) here on the github project.
+*   Contribute your Expertise - If you have expertise in compilers, microcontrollers, or other skills that could benefit this project, [please let us know by posting in the discussion forum](https://github.com/labview-for-microcontrollers/exploring-labview-for-microcontrollers/discussions)!
+
 ### Various Related Projects and Products of Interest
 
 *   [NI LabVIEW C Generator](https://www.ni.com/en-us/support/downloads/software-products/download.labview-c-generator-module.html#322515) - an add-on for LabVIEW from NI that helps you create C code from LabVIEW VIs for specific targets.
