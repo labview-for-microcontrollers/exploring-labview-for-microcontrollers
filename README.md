@@ -1,6 +1,6 @@
 # Exploring LabVIEW for Microcontrollers
 
-This is a project for exploring and prototyping possibilities for for open source tools to deploy LabVIEW code to various microcontrollers (e.g. the Raspberry Pi Pico / RP2040 and others).
+This is a project for exploring and prototyping possibilities for an open source tool to deploy LabVIEW code to various microcontrollers (e.g. the Raspberry Pi Pico / RP2040 and others).
 
 There have been a variety of projects and related work done on this effort by different people over the years. Here we will start by taking inventory on the work done by others, discuss possibilities, experiment with ideas, develop prototypes, and a share a roadmap toward making this a real capability for LabVIEW developers!
 
