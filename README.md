@@ -6,7 +6,7 @@ There have been a variety of projects and related work done on this effort by di
 
 ### Current Exploration
 
-*   Compiling Vireo to a Microcontroller Target - We're exploring what it would take to get NI's VireoSDK to compile to a microprocessor target.  Vireo can run VI Assembly (VIA) files, which are an output of LabVIEW's Web UI Builder (and LabVIEW NXG). Since Viero is written in C++ this could be a viable option with the right technical expertise.
+*   [Compiling Vireo to a Microcontroller Target (discussion)](https://github.com/labview-for-microcontrollers/exploring-labview-for-microcontrollers/discussions/2) - We're exploring what it would take to get NI's VireoSDK to compile to a microprocessor target.  Vireo can run VI Assembly (VIA) files, which are an output of LabVIEW's Web UI Builder (and LabVIEW NXG). Since Viero is written in C++ this could be a viable option with the right technical expertise.
 
 ### How to Help
 
